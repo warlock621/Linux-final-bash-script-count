@@ -1,0 +1,1 @@
+# Linux-final-bash-script-count
